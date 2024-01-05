@@ -1,0 +1,7 @@
+f=open('sample2.txt')
+f2=f.read()
+f1=open('sample4.txt','x+')
+f1.write(f2)
+f3=f1.read()
+f.close()
+f1.close()

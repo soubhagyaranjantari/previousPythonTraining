@@ -1,0 +1,5 @@
+https://www.educba.com/python-interview-questions/?source=leftnav
+pip insatll psycopg2
+postgresql port - 5432
+django port -8000
+
